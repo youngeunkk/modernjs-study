@@ -34,10 +34,10 @@ let age = prompt('나이를 입력해주세요.', 100);
 
 alert(`당신의 나이는 ${age}살 입니다.`); // 당신의 나이는 100살입니다.
 ```
-
+g
 ## 컨펌 대화상자
 
-문법:
+문법)
 
 ```
 result = confirm(question);
@@ -45,7 +45,7 @@ result = confirm(question);
 confirm 함수는 매개변수로 받은 질문과 확인 및 취소 버튼이 있는 모달 창을 보여준다.
 사용자가 확인버튼을 누르면 true, 그 외의 경우는 false를 반환한다.
 
-ex:
+ex)
 ```
 let isBoss = confirm("당신이 주인인가요?");
 
