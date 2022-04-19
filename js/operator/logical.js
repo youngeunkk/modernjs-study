@@ -10,6 +10,7 @@
 
 let userName = "Admin";
 
+
 if (userName == "Admin") {
     let password = prompt('비밀번호: ', '');
     
